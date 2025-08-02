@@ -312,4 +312,12 @@ a{
         font-size: 10px;
         padding: 30px 20px;
     }
+
+    .banner{
+    background-image: url(imagem/bg.jpg);
+    background-position: right;
+    background-size: cover;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
 }
