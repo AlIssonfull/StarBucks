@@ -1,2 +1,2 @@
 # StarBucks
-Recriaçao de um layout do StarBucks
+Criaçao de um layout do StarBucks
